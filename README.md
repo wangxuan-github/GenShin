@@ -1,0 +1,2 @@
+# GenShin
+GenShin相关
